@@ -13,9 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Babafemibank/cti-2.0)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL:(https://github.com/Babafemibank/cti-2.0)
+- Live Site URL:(https://babafemibank.github.io/cti-2.0/)
 ## My process
 
 ### Built with
